@@ -40,10 +40,7 @@ These resources are **free** for you to use, adapt, and share—created to help 
 
 If you find our tools and services helpful, consider supporting us! Your contributions help us continue building and sharing more open-source projects for the community.
 
-You can support us on **[Patreon](https://patreon.com)** or through other platforms:
-
-- [Buy Me a Coffee](https://buymeacoffee.com)
-- [Ko-Fi](https://ko-fi.com)
+You can support us on **[Buy Me a Coffee](https://buymeacoffee.com/analyticaldev)**.
 
 Your support keeps us going, and we truly appreciate it!
 
