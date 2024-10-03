@@ -39,9 +39,10 @@ These resources are **free** for you to use, adapt, and share—created to help 
 ### 💖 Support Our Work
 
 If you find our tools and services helpful, consider supporting us! Your contributions help us continue building and sharing more open-source projects for the community.
-<a href="https://buymeacoffee.com/analyticaldev">
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/513lZvPf6khjIQFibF" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div></a>
+
 You can support us on **[Buy Me a Coffee](https://buymeacoffee.com/analyticaldev)**.
+
+[![Support Us](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHh3azk4NHNoZzVrN2ZidmFkbjlhNjFlN2VwNGRkbnlvZWY0aHhtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/513lZvPf6khjIQFibF/giphy.gif)](https://buymeacoffee.com/analyticaldev)
 
 Your support keeps us going, and we truly appreciate it!
 
