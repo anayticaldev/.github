@@ -27,7 +27,7 @@ We are proficient in:
 We’re always excited to work on new projects that challenge the status quo. Whether you need help with cloud architecture, integrating data platforms, or designing custom software solutions, we’ve got you covered.
 
 📧 **Get in Touch**  
-Reach out to us at **analyticaldev@forceadm.com** or visit our website to explore how we can partner with you for your next project.
+Reach out to us at **analytical.dev@forceadm.com** or visit our website to explore how we can partner with you for your next project.
 
 ---
 
